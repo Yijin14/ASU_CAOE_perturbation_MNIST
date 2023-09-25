@@ -2,9 +2,9 @@
 
 Please modify the last line to 
 
-'''
+```
 main('mnist', step=0)
-'''
+```
 
 step0
 train classifier
